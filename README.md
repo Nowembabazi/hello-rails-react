@@ -164,7 +164,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Tashobya Israel**
+👤 **Nowembabazi Nickson**
 
 - GitHub: [@githubhandle](https://github.com/Nowembabazi)
 - Twitter: [@twitterhandle](https://twitter.com/NowembabaziN)
